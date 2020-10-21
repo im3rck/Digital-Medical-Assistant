@@ -1,4 +1,4 @@
-# med_app
+# Digital Medical Assistant
 
 A new Flutter project.
 
