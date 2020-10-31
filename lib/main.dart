@@ -72,11 +72,3 @@ class MyHomePage extends StatelessWidget {
     );
   }
 }
-
-Future navigateToSignIn(context) async {
-  Navigator.push(context, MaterialPageRoute(builder: (context) => SignIn()));
-}
-
-Future navigateToSignUp(context) async {
-  Navigator.push(context, MaterialPageRoute(builder: (context) => SignUpCareGiver()));
-}
