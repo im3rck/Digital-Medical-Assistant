@@ -31,6 +31,6 @@ TextStyle simpleTextStyle(){
 TextStyle mediumTextStyle(){
   return TextStyle(
   color: Colors.white,
-fontSize: 17,
+fontSize: 19,
   );
 }
